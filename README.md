@@ -1,4 +1,2 @@
 # Auto_Reply_Gmail OpeninApp Assignment using Node.js
-npm install
-npm install googleapis nodemon
-npm start
+1.npm install ,2.npm install googleapis nodemon ,3.npm start
